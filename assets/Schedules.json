@@ -1,0 +1,51 @@
+{"Changes":[
+
+
+{"LogName":"阿比行程",
+  "Action": "EditData",
+  "Target": "Characters/schedules/Abigail",
+  "Entries":
+{
+"11": "900 SeedShop 9 5 0/1100 SeedShop 13 20 0/1300 SeedShop 39 5 0/1500 SeedShop 7 9 2/1900 SeedShop 6 4 0/2200 SeedShop 1 9 3 abigail_sleep",
+"25": "900 SeedShop 9 5 0/1100 SeedShop 13 20 0/1300 SeedShop 39 5 0/1500 SeedShop 7 9 2/1900 SeedShop 6 4 0/2200 SeedShop 1 9 3 abigail_sleep"
+}},
+
+
+{"LogName":"海莉行程",
+  "Action": "EditData",
+  "Target": "Characters/schedules/Haley",
+  "Entries":
+{
+"summer": "840 HaleyHouse 6 5 0/930 HaleyHouse 8 7 1/1030 Beach 19 7 2/1430 Town 72 91 3/1700 HaleyHouse 19 16 0 square_5_1/2000 HaleyHouse 5 7 2 square_5_5/2300 HaleyHouse 1 5 3 haley_sleep"
+}},
+
+
+{"LogName":"山姆行程",
+  "Action": "EditData",
+  "Target": "Characters/schedules/Sam",
+  "Entries":
+{
+"9": "900 SamHouse 15 13 0/1100 Town 71 99 2/1600 Town 24 97 3 sam_gameboy/1900 SamHouse 17 13 0/2130 SamHouse 22 13 1 sam_sleep1000 SamHouse 15 13 0/1040 SamHouse 17 15 2 sam_guitar/1340 Town 71 99 2/1830 SamHouse 22 16 1/2100 SamHouse 22 13 1 sam_sleep",
+"23": "GOTO 9"
+}},
+
+
+{"LogName":"亚历克斯行程",
+  "Action": "EditData",
+  "Target": "Characters/schedules/Alex",
+  "Entries":
+{
+"Wed": "800 Town 64 64 2 alex_football/1430 Town 50 68 1/1840 JoshHouse 8 19 2/2000 JoshHouse 17 5 0/2200 JoshHouse 21 4 1 alex_sleep"
+}},
+
+
+{"LogName":"艾行程",
+  "Action": "EditData",
+  "Target": "Characters/schedules/Elliott",
+  "Entries":
+{
+"Fri": "800 ElliottHouse 1 5 0/1100 Beach 24 32 3 square_1_5_3/1700 Saloon 24 17 2 elliott_drink/2340 ElliottHouse 13 4 1 elliott_sleep",
+}}
+
+
+]}

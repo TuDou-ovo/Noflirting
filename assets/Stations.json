@@ -1,0 +1,80 @@
+{"Changes":[
+
+{"LogName":"复活节站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/spring13",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+
+
+{"LogName":"花舞节站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/spring24",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+{"LogName":"展览会站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/fall16",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+
+
+{"LogName":"万圣节站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/fall27",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+
+
+{"LogName":"夏威夷站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer11",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+
+
+
+{"LogName":"月光水母站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/summer28",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+
+
+{"LogName":"冰钓站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/winter8",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "Alex 85 40 2"}],
+},
+
+{"LogName":"圣诞节站位",
+  "Action": "EditData",
+  "Target": "Data/Festivals/winter25",
+  "TextOperations": [
+{"Operation": "Append",
+  "Target": ["Entries","Set-Up_additionalCharacters"],
+  "Value": "cxx.Tangf 32 55 2"}],
+},
+
+]}

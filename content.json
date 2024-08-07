@@ -1,0 +1,21 @@
+{"Format": "2.0.0",
+
+
+"Changes":[
+
+
+
+{"LogName": "节庆位置",
+  "Action": "Include",
+  "FromFile": "assets/Stations.json"},
+
+//{"LogName": "设定修改",
+//  "Action": "Include",
+//  "FromFile": "assets/Disposition.json"},
+
+{"LogName": "行程",
+  "Action": "Include",
+  "FromFile": "assets/Schedules.json"}
+
+	 
+]}
